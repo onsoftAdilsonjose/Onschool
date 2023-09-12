@@ -1,0 +1,65 @@
+
+.border-l-dark{
+    border-right: 2px solid #ccc!important;
+  
+}
+
+.notMedias{
+    border-bottom: 2px solid #ccc!important;
+}
+
+.border-l-darkSoft{
+    border-right: 1px solid #eee!important;
+    border-bottom: 1px solid #eee!important;
+}
+
+.professorParaClasseOprionsDiv{
+    border-bottom: 1px solid #eee;
+    
+}
+input, select{
+    border: 1px solid #ccc !important;
+}
+
+.flexMy{
+    display: flex !important;
+    gap: 2rem !important;
+}
+
+.divisor{
+    border:1px solid #ccc !important;
+}
+
+table{
+    cursor: pointer;
+}
+.cartDiv{
+    height: 13.3rem!important;
+}
+
+.spanMessageError{
+    color: red;
+}
+
+.notaAlturaDoCardsEstudanteNotas{
+    height: 30rem!important;
+}
+
+.text-color{
+    
+    color: #000 !important;
+}
+
+.bold-text-recibo{
+    font-weight: bold;
+    font-size: 1rem;
+}
+
+
+
+    
+@media (max-width: 1099.98px){
+    .imgWelcomeLogin{
+        display: none!important;
+    }
+}
